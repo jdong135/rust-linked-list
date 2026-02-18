@@ -1,0 +1,20 @@
+# Build output
+/target/
+**/target/
+
+# Cargo lock: commit for binaries, optional for libs (uncomment to ignore)
+# Cargo.lock
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug / flycheck
+*.pdb
